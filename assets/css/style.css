@@ -3661,7 +3661,7 @@ a.drop-text {
     -moz-transition: all 0.5s;
     transition: all 0.5s;
 }
-..btc_pricing_cont_wrapper h4 a:hover {
+.btc_pricing_cont_wrapper h4 a:hover {
     background: red;
 }
 .btc_pricing_box_wrapper:hover .btc_pricing_cont_wrapper h4 a {
